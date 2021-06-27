@@ -55,4 +55,14 @@
             android:text="@string/okay_15"/>
     </RadioGroup>
 
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/round_up_switch"
+        android:layout_width="@dimen/zero_dp"
+        android:layout_height="wrap_content"
+        android:text="@string/round_up_tip"
+        android:checked="true"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tip_options"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
