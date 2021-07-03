@@ -1,4 +1,11 @@
 # Tip Calculator
+
+![Lines of code](https://img.shields.io/tokei/lines/github/varunjha089/Tip-Calculator?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/varunjha089/Tip-Calculator)
+![Twitter Follow](https://img.shields.io/twitter/follow/varunjha089?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/varunjha089/Tip-Calculator)
+![GitHub top language](https://img.shields.io/github/languages/top/varunjha089/Tip-Calculator)
+
 This is a utility based Android Application to calculate the tip
 
 This repositor is based on [Android Basics in Kotlin Course](https://developer.android.com/courses/android-basics-kotlin/course)
