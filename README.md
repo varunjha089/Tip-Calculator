@@ -11,6 +11,13 @@ This is a utility based Android Application to calculate the tip
 This repositor is based on [Android Basics in Kotlin Course](https://developer.android.com/courses/android-basics-kotlin/course)
 -   Unit 2: Layout
     -   Get user input in an app: Part 1
+    
+## MAD Scorcard
+
+![jetpack](mad/jetpack.png)
+![kotlin](mad/kotlin.png)
+![studio](mad/studio.png)
+![summary](mad/summary.png)
 
 ## More Codelab
 -   [Change the app theme](https://developer.android.com/codelabs/basic-android-kotlin-training-change-app-theme#0)
